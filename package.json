@@ -34,7 +34,7 @@
     },
     {
       "name": "youtubeVideoIngridients",
-      "title": "List Ingredients from YouTube Video",
+      "title": "List Ingredients From YouTube Video",
       "description": "Using the transcript from the youtube video, you will be able to receive ingredients list from YouTube video.",
       "subtitle": "Enter a valid youtube video url.",
       "mode": "view",
